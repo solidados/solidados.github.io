@@ -3,7 +3,7 @@
 ## Layout Fast Cheat Sheet:
 ### Source-code Editor:
 
-- [VS Code setting](https://youtu.be/nxCLXMBl4e4)
+- [VS Code setup](https://youtu.be/nxCLXMBl4e4)
 - [Hot keys VSCode](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
 - [Gulp-2022](https://youtu.be/jU88mLuLWlk)
 
