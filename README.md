@@ -1,5 +1,35 @@
-## Welcome to SolidadosGitHub Pages...
+# Welcome to SolidadosGitHub Pages...
 
+## Layout Fast Cheat Sheet:
+### Source-code Editor:
+```
+- [VS Code setting](https://youtu.be/nxCLXMBl4e4)
+- [Hot keys VSCode](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
+- [Gulp-2022](https://youtu.be/jU88mLuLWlk)
+```
+
+### VS Code plugins:
+- [eCSStractor](https://marketplace.visualstudio.com/items?itemName=diz.ecsstractor-port)
+- [CSS Navigation](https://marketplace.visualstudio.com/items?itemName=pucelle.vscode-css-navigation)
+- [htmlTagWrap](https://marketplace.visualstudio.com/items?itemName=bradgashler.htmltagwrap)
+- [Google Fonts](https://marketplace.visualstudio.com/items?itemName=lior-chamla.google-fonts)
+- [GoogleTranslate](https://marketplace.visualstudio.com/items?itemName=hancel.google-translate)
+- [Live SASS Compiler](https://marketplace.visualstudio.com/items?itemName=ritwickdey.live-sass)
+- [FTP-Simple](https://marketplace.visualstudio.com/items?itemName=humy2833.ftp-simple)
+
+### CSS Generator WebCodeTools:
+- [Grid layouts](https://grid.layoutit.com/)
+- [Gradients](https://cssgradient.io/)
+- [Animations](https://animista.net/)
+- [Border-radius](https://developer.mozilla.org/ru/docs/Web/CSS/CSS_Backgrounds_and_Borders/Border-radius_generator)
+
+### Bonus:
+- [Слепая печать](https://www.edclub.com/typingclub)
+- [Punto Switcher](https://free-software.com.ua/system/punto-switcher/)
+- [Learn Git Branching](https://learngitbranching.js.org/)
+
+
+---------------------------------------------
 You can use the [editor on GitHub](https://github.com/solidados/solidados.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
