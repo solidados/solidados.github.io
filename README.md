@@ -2,11 +2,10 @@
 
 ## Layout Fast Cheat Sheet:
 ### Source-code Editor:
-```
+
 - [VS Code setting](https://youtu.be/nxCLXMBl4e4)
 - [Hot keys VSCode](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
 - [Gulp-2022](https://youtu.be/jU88mLuLWlk)
-```
 
 ### VS Code plugins:
 - [eCSStractor](https://marketplace.visualstudio.com/items?itemName=diz.ecsstractor-port)
