@@ -1,5 +1,8 @@
 # Welcome to SolidadosGitHub Pages...
 
+### About
+Hello, I am just at the very beginning of my path to programming. Within a year I study the Frontend languages and find it very exciting when incomprehensible sets of symbols and words for someone who is not involved, they take shapes, colors, movements, meanings. That is what I call 'The Magic' and I wish to be a part of it.
+
 ## Layout Fast Cheat Sheet:
 ### Source-code Editor:
 
